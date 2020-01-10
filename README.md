@@ -9,6 +9,12 @@
 ```
 pipenv install -r requirements.txt
 ```
+Create .env
+```
+BASE_URL=http://localhost:49577
+PORT=49577
+
+```
 
 ## Build Setup
 
