@@ -24,3 +24,6 @@ Cycler = "==0.10.0"
 
 [requires]
 python_version = "3.7"
+
+[build-system]
+requires = ["setuptools", "wheel"]
