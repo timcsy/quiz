@@ -24,7 +24,7 @@ Cycler = "==0.10.0"
 bzip2 = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
 
 [build-system]
 requires = ["setuptools", "wheel"]
