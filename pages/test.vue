@@ -11,6 +11,14 @@
 						上傳檔案
 					</v-btn>
 				</v-row>
+				<v-row justify="center">
+					<v-btn>
+						<a href="/questions.xlsx">下載測驗範例</a>
+					</v-btn>
+					<v-btn>
+						<a href="/responses.xlsx">下載回應範例<a>
+					</v-btn>
+				</v-row>
 			</v-col>
 		</v-row>
 		<v-container v-if="state === 'uploading'">
