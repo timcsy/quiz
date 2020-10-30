@@ -11,12 +11,12 @@
 						上傳檔案
 					</v-btn>
 				</v-row>
-				<v-row justify="center">
-					<v-btn>
-						<a href="/questions.xlsx">下載測驗範例</a>
+				<v-row justify="center" class="ma-4">
+					<v-btn href="/questions.xlsx" class="ma-4">
+						下載測驗範例
 					</v-btn>
-					<v-btn>
-						<a href="/responses.xlsx">下載回應範例<a>
+					<v-btn href="/responses.xlsx" class="ma-4">
+						下載回應範例
 					</v-btn>
 				</v-row>
 			</v-col>
